@@ -64,7 +64,6 @@ Functionality was verified using JUnit tests that covered both valid inputs and 
 
 Security in foundational systems begins with preventing invalid inputs and enforcing predictable behavior. By combining input validation with automated testing, I reduced the risk of unexpected runtime failures and improved overall system reliability.
 
----
 
 ## How do I interpret user needs and incorporate them into a program?
 
@@ -78,7 +77,6 @@ For example:
 
 By mapping each requirement to a corresponding validation rule and test case, I ensured traceability between user expectations and program behavior. This approach minimizes ambiguity and strengthens reliability.
 
----
 
 ## How do I approach designing software?
 
