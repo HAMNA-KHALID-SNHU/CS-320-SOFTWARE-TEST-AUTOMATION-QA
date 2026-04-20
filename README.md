@@ -7,14 +7,17 @@
 ### Submitted By:
 
 **Hamna Khalid**
-**hamna.khalid@snhu.edu**
+
+hamna.khalid@snhu.edu
 
 ### Submitted To:
 
 **Professor Sherif Antoun**
-**s.antoun@snhu.edu**
 
-**Southern New Hampshire University**
+s.antoun@snhu.edu
+
+Southern New Hampshire University
+
 Monday, April 20, 2026
 
 ---
