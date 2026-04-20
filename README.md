@@ -7,16 +7,17 @@
 ### Submitted By:
 
 **Hamna Khalid**
-hamna.khalid@snhu.edu
+**hamna.khalid@snhu.edu**
 
 ### Submitted To:
 
 **Professor Sherif Antoun**
-s.antoun@snhu.edu
+**s.antoun@snhu.edu**
 
-Southern New Hampshire University
+**Southern New Hampshire University**
 Monday, April 20, 2026
 
+---
 
 This repository contains coursework from CS-320 at Southern New Hampshire University.
 
@@ -32,6 +33,8 @@ This repository contains coursework from CS-320 at Southern New Hampshire Univer
 - HashMap
 - Defensive Validation
 
+---
+
 # Repository Overview
 
 This repository contains selected artifacts from **CS 320: Software Test, Automation, and Quality Assurance**. The included files demonstrate my ability to implement backend validation logic, design unit tests using JUnit, analyze software testing approaches based on requirements, and reflect on testing strategies and quality assurance practices.
@@ -46,6 +49,7 @@ Included Artifacts:
 
 Together, these artifacts showcase both technical implementation and analytical reflection on testing methodologies.
 
+---
 
 # Reflection
 
@@ -57,7 +61,7 @@ Functionality was verified using JUnit tests that covered both valid inputs and 
 
 Security in foundational systems begins with preventing invalid inputs and enforcing predictable behavior. By combining input validation with automated testing, I reduced the risk of unexpected runtime failures and improved overall system reliability.
 
-
+---
 
 ## How do I interpret user needs and incorporate them into a program?
 
@@ -71,7 +75,7 @@ For example:
 
 By mapping each requirement to a corresponding validation rule and test case, I ensured traceability between user expectations and program behavior. This approach minimizes ambiguity and strengthens reliability.
 
-
+---
 
 ## How do I approach designing software?
 
@@ -106,3 +110,5 @@ This repository represents foundational competency in backend service validation
 # AI Acknowledgment
 
 Generative AI tools were used to assist in refining written reflections for clarity, organization, and formatting. All technical implementations, design decisions, and testing strategies reflect my independent work completed throughout the course.
+
+---
